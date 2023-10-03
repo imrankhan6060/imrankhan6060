@@ -3,11 +3,15 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+
 - 🌱 I’m currently working on **Smart Contracts, DAPPS, NFT Marketplace Development, Uniswap, NFTs Development,ERC721,ERC1155, ERC20 .**
+
 
 - 💬 Ask me about **Blockchain ERC721 ERC20 ERC1155 Dapps Defi DAOs ICOs Launchpads NFT marketplaces Gamefi Custom SmartContracts Hardhat IPFS**
 
+
 - 📫 How to reach me **imranahmedkhan606@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
