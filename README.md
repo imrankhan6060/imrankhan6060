@@ -6,9 +6,7 @@
 
 - 🔭 **I’m currently working on** Data Analysis Data Visualization, Statistical Analysis, and, machine learning models. Proficient in SQL, Python, Tableau, Power BI and Excel. Passionate about turning complex data sets into actionable insights.
 
-- 💬 **Ask me about**
-  - Handling large datasets to uncover trends and identify patterns
-  - Creating interactive dynamic dashboards for business insights
+- 💬 **Ask me about** <br>Handling large datasets to uncover trends and identify patterns <br>Creating interactive dynamic dashboards for business insights
   - Implementing data-driven strategies for revenue growth
   - Performing statistical analysis to derive actionable insights
 
