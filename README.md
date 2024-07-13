@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
-- 🔭 I’m currently working on **Data Analysis, Data Visualization, Statistical Analysis, and, machine learning models. Proficient in SQL, Python, Tableau, Power BI and Excel. Passionate about turning complex data sets into actionable insights.**
+- 🔭 **I’m currently working on **Data Analysis <br>, Data Visualization, Statistical Analysis, and, machine learning models. Proficient in SQL, Python, Tableau, Power BI and Excel. Passionate about turning complex data sets into actionable insights.
 
 - 💬 Ask me about **Handling large datasets to uncover trends and identify patterns <be> Creating interactive dynamic dashboards for business insights <be>Implementing data-driven strategies for revenue growth <be> Performing statistical analysis to derive actionable insights**
 
