@@ -12,7 +12,7 @@
 <be> Performing statistical analysis to derive actionable insights
 
 - 📫 **How to reach me** You can contact me via email or LinkedIn for collaboration opportunities or inquiries.
-  <h3 >Email:</h3>  imranahmedkhan606@gmail.com
+  <h3 >Email:</h3> imranahmedkhan606@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
