@@ -6,12 +6,13 @@
 
 - 🔭 **I’m currently working on** Data Analysis Data Visualization, Statistical Analysis, and, machine learning models. Proficient in SQL, Python, Tableau, Power BI and Excel. Passionate about turning complex data sets into actionable insights.
 
-- 💬 **Ask me about** Handling large datasets to uncover trends and identify patterns
-<be> Creating interactive dynamic dashboards for business insights
-<be> Implementing data-driven strategies for revenue growth
-<be> Performing statistical analysis to derive actionable insights
+- 💬 **Ask me about**
+  - Handling large datasets to uncover trends and identify patterns
+  - Creating interactive dynamic dashboards for business insights
+  - Implementing data-driven strategies for revenue growth
+  - Performing statistical analysis to derive actionable insights
 
-- 📫 **How to reach me** You can contact me via email or LinkedIn for collaboration opportunities or inquiries.
+- 📫 **How to reach me** You can contact me via email or LinkedIn for collaboration, opportunities or inquiries.
 - **Email** imranahmedkhan606@gmail.com
 
 <h3 align="left">Connect with me:</h3>
