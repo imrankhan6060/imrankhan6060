@@ -4,12 +4,12 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
-- 🔭 **I’m currently working on**<br>Data Analysis Data Visualization, Statistical Analysis, and, machine learning models. Proficient in SQL, Python, Tableau, Power BI and Excel. Passionate about turning complex data sets into actionable insights.
+- 🔭 **I’m currently working on** <br>Data Analysis Data Visualization, Statistical Analysis, and, machine learning models. Proficient in SQL, Python, Tableau, Power BI and Excel. Passionate about turning complex data sets into actionable insights.
 
 - 💬 **Ask me about** <br>Handling large datasets to uncover trends and identify patterns <br>Creating interactive dynamic dashboards for business insights<br>Implementing data-driven strategies for revenue growth
   <br>Performing statistical analysis to derive actionable insights
 
-- 📫 **How to reach me** You can contact me via email or LinkedIn for collaboration, opportunities or inquiries.
+- 📫 **How to reach me** <br>You can contact me via email or LinkedIn for collaboration, opportunities or inquiries.
 - **Email** imranahmedkhan606@gmail.com
 
 <h3 align="left">Connect with me:</h3>
